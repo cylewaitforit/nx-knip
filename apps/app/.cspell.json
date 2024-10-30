@@ -1,0 +1,10 @@
+{
+    "import": "../../.cspell.json",
+    "dictionaryDefinitions": [
+        {
+            "name": "app-dictionary",
+            "path": "./.cspell/app-dictionary.txt"
+        }
+    ],
+    "dictionaries": ["app-dictionary"]
+}

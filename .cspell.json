@@ -1,0 +1,14 @@
+{
+    "version": "0.2",
+    "import": ["@cspell/dict-npm/cspell-ext.json"],
+    "ignorePaths": [
+        "pnpm-lock.yaml"
+    ],
+    "dictionaryDefinitions": [
+        {
+            "name": "package-name-dictionary",
+            "path": "./.cspell/package-name-dictionary.txt"
+        }
+    ],
+    "dictionaries": ["package-name-dictionary","npm"]
+}
