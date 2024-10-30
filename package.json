@@ -10,7 +10,6 @@
     "@remix-run/react": "^2.8.1",
     "@remix-run/serve": "^2.8.1",
     "isbot": "^4.4.0",
-    "knip": "^5.34.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -46,6 +45,7 @@
     "eslint-plugin-playwright": "^0.15.3",
     "fs": "0.0.1-security",
     "jsdom": "~22.1.0",
+    "knip": "5.34.3",
     "nx": "19.5.0",
     "prettier": "^2.6.2",
     "typescript": "~5.5.2",
